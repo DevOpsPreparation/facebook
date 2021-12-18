@@ -4,4 +4,4 @@ hello world
 
 New text added
 
-this line added in master branch
+new line is added in master branch
