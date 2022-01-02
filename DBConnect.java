@@ -6,3 +6,6 @@ New text added
 
 new line is added in master branch
 New line added in dev branch
+
+
+**Updated from remote repository
